@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Link Extension",
+    "action": {
+        "default_popup": "src/index.html",
+        "default_icon": "imgs/icon.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
